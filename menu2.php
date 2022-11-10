@@ -10,7 +10,7 @@
         </a>
         <a href="ingresoventa.php" class="grid-a">
             <i class="material-icons iconomenu">local_atm</i>  
-            <p class="boton_menu">AGENDA DE HORA</p>  
+            <p class="boton_menu">AGENDA DE HORAs</p>  
         </a>
        
         <a href="clientes.php" class="grid-a">
